@@ -20,8 +20,7 @@ else:
         if nota >= 13 & nota <= 16:
             print("%s, nota- %d" % ("Regular", nota))
         else:
-            if nota <= 13:
-                print("%s, nota- %d" % ("Insuficiente", nota2))
+            print("%s, nota- %d" % ("Insuficiente", nota))
 
 
 
